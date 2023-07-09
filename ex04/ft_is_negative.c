@@ -6,13 +6,11 @@
 /*   By: fcamoin <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/06 14:29:39 by fcamoin           #+#    #+#             */
-/*   Updated: 2023/07/09 11:25:59 by fcamoin          ###   ########.fr       */
+/*   Updated: 2023/07/09 12:02:37 by fcamoin          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <unistd.h>
-
-void	ft_is_negative(int n);
 
 void	ft_is_negative(int n)
 {	

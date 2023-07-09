@@ -6,13 +6,11 @@
 /*   By: fcamoin <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/06 14:31:38 by fcamoin           #+#    #+#             */
-/*   Updated: 2023/07/09 11:24:21 by fcamoin          ###   ########.fr       */
+/*   Updated: 2023/07/09 12:01:06 by fcamoin          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <unistd.h>
-
-void	ft_print_reverse_alphabet(void);
 
 void	ft_print_reverse_alphabet(void)
 {
