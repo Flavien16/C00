@@ -6,7 +6,7 @@
 /*   By: fcamoin <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/06 14:33:26 by fcamoin           #+#    #+#             */
-/*   Updated: 2023/07/06 16:03:14 by fcamoin          ###   ########.fr       */
+/*   Updated: 2023/07/09 11:29:07 by fcamoin          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 #include <unistd.h>
@@ -41,12 +41,12 @@ void	ft_print_comb2(void)
 				write(1, ", ", 2);
 			}
 		}
-	a++;
+		a++;
 	}
 }
 
-int	main(void)
+/*int	main(void)
 {
 	ft_print_comb2();
 	return (0);
-}
+}*/

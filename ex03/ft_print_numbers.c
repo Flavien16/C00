@@ -6,7 +6,7 @@
 /*   By: fcamoin <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/06 14:32:31 by fcamoin           #+#    #+#             */
-/*   Updated: 2023/07/06 14:32:34 by fcamoin          ###   ########.fr       */
+/*   Updated: 2023/07/09 11:22:59 by fcamoin          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -25,3 +25,9 @@ void	ft_print_numbers(void)
 		count++;
 	}
 }
+
+/*int	main()
+{
+	ft_print_numbers();
+	return (0);
+}*/
